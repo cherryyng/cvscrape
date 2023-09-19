@@ -11,3 +11,6 @@ CVscrape is a powerful web scraping and resume generation tool designed to assis
 - **User-Friendly Interface**: A user-friendly interface built with React and JavaScript makes it easy for users to interact with the application.
 
 - **Dynamic Data Handling**: Implements dynamic JSON-based data handling, enabling seamless information exchange between the user and the application.
+
+
+This project is ongoing!
